@@ -1,0 +1,22 @@
+{
+  "name": "youtubedownloader",
+  "version": "1.0.0",
+  "description": "download serie of youtube via ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "download"
+  ],
+  "author": "hugo lopez",
+  "license": "ISC",
+  "dependencies": {
+    "get-youtube-id": "^1.0.0",
+    "node-youtube-dl": "0.0.2",
+    "subtitle-utils": "^1.2.1",
+    "youtube-captions-scraper": "^1.0.3",
+    "youtube-dl": "^1.12.2"
+  }
+}
