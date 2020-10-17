@@ -1,7 +1,7 @@
 ### Install
 ```
 git clone git@github.com:hugolpz/youtube-dl.git
-mkdir -p videos vtt str 
+mkdir -p videos vtt srt 
 npm install
 ```
 
@@ -9,7 +9,7 @@ npm install
 ```
 |- node_modules		: dev dependencies
 |- videos		: videos .mp4
-|- str			: youtube subtitle as str
+|- srt			: youtube subtitle as srt
 |- vtt			: youbtube subtitle as vtt
 |- README.md		: README.md manual (here)
 |- data.js		: list of youtube address and title to download and rename
