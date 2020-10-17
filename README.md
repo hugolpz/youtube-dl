@@ -1,3 +1,11 @@
+### Install
+```
+git clone git@github.com:hugolpz/youtube-dl.git
+mkdir -p videos vtt str 
+npm install
+```
+
+### Structure
 ```
 |- node_modules		: dev dependencies
 |- videos		: videos .mp4
