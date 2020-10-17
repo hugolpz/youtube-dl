@@ -5,6 +5,13 @@ mkdir -p videos vtt srt
 npm install
 ```
 
+### Usage
+Adapt the data to your need. Data there help to rename files, change as you wish to.
+Then run
+```
+node index.js
+```
+
 ### Structure
 ```
 |- node_modules		: dev dependencies
